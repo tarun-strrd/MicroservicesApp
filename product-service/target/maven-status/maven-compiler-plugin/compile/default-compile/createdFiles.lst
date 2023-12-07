@@ -1,0 +1,10 @@
+com\tarun\productservice\repository\ProductRepository.class
+com\tarun\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\tarun\productservice\model\Product.class
+com\tarun\productservice\controller\ProductController.class
+com\tarun\productservice\dto\ProductResponse.class
+com\tarun\productservice\model\Product$ProductBuilder.class
+com\tarun\productservice\dto\ProductRequest.class
+com\tarun\productservice\service\ProductService.class
+com\tarun\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\tarun\productservice\ProductServiceApplication.class

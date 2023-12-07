@@ -1,0 +1,12 @@
+com\tarun\orderservice\Models\Order.class
+com\tarun\orderservice\Repo\OrderRepo.class
+com\tarun\orderservice\Dto\OrderRequest.class
+com\tarun\orderservice\config\WebClientConfig.class
+com\tarun\orderservice\Controller\OrderController.class
+com\tarun\orderservice\Dto\InventoryResponse$InventoryResponseBuilder.class
+com\tarun\orderservice\event\OrderPlacedEvent.class
+com\tarun\orderservice\Dto\InventoryResponse.class
+com\tarun\orderservice\Service\OrderService.class
+com\tarun\orderservice\Dto\OrderItemDto.class
+com\tarun\orderservice\Models\OrderItem.class
+com\tarun\orderservice\OrderServiceApplication.class

@@ -1,0 +1,7 @@
+com\tarun\inventoryservice\controller\InventoryController.class
+com\tarun\inventoryservice\InventoryServiceApplication.class
+com\tarun\inventoryservice\service\InventoryService.class
+com\tarun\inventoryservice\model\Inventory.class
+com\tarun\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\tarun\inventoryservice\dto\InventoryResponse.class
+com\tarun\inventoryservice\repository\InventoryRepository.class
